@@ -35,9 +35,5 @@
         .done(done_func)
         .fail(fail_func);
     });
-
-     function daller(data) {
-        
-    }
     
 })(jQuery);
